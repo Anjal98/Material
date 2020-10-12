@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_53daa4712e9580db5f2dc06a695d2de9163d02d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_42a8a1b07a21ab738c9f5e25e7b553c0dd697e18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_e0b0948fa1444eecd135f821930f8b198dc3e050.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_0beb36acfc507e34c3cef0817b668a286ef2d66c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_d522898e1e6fb93bb4d51605b1741cf2b05d0bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_9fdc5f47e0775a925637aea3db7866d5af9bebd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_e17627bc5f6011b11fb6e6af38f8d647d9f69a00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/Users/anjallawaju/AndroidStudioProjects/MaterialMe-Starter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_38f0fc856dd4ef8a16011bd1ba61ebebab0bcf46.jar" />
+    </item>
+
+</items>
